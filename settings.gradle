@@ -1,0 +1,2 @@
+rootProject.name = "Online Notes"
+include ':app'
